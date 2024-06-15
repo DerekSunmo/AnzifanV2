@@ -77,7 +77,7 @@ interface BlogConfig {
 
 const CONFIG: BlogConfig = {
   NOTION_PAGE_ID:
-    process.env.NOTION_PAGE_ID ?? 'be1b622baba5422bbdb5fd8255d733ee',
+    process.env.NOTION_PAGE_ID ?? 'c0b974b560024cbd9ea8bc861206ce19',
   NOTION_SITE_NAME: 'dearlaywer',
   NEXT_REVALIDATE_SECONDS: 60,
   FORCE_UPDATE_TIME: 1620000000000,
