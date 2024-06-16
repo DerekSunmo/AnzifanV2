@@ -107,8 +107,8 @@ const CONFIG: BlogConfig = {
   SHOW_UNSUPPORTED_BLOCK: false,
   STRICT_QUOTE_CARD: true,
   PAST_BLOG_INFO: {
-    URL: 'yuanfou-blog.vercel.app',
-    POST_URL: 'yuanfou-blog.vercel.app',
+    URL: 'anzifan-v2-seven.vercel.app',
+    POST_URL: 'anzifan-v2-seven.vercel.app',
     STOP_DATE: '2024-05-12',
   },
   REPOST_MESSAGE: [
